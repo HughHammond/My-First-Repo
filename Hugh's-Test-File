@@ -1,5 +1,10 @@
 Main:
 Hello! How are you?
 
+<<<<<<< HEAD
 Testing Branch:
 I've added some text here!
+=======
+Main:
+Here's a change!
+>>>>>>> origin/main
